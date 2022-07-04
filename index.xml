@@ -12,9 +12,8 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://simengshao.github.io/contact/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+      <description>Email: simengsh@marshall.usc.edu
+Address: Bridge Hall 401, 3670 Trousdale Pkwy, Los Angeles, CA 90089</description>
     </item>
     
     <item>
@@ -23,7 +22,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://simengshao.github.io/miscellaneous/</guid>
-      <description>Here is other stuff that I care about.</description>
+      <description>I love taking film photos, drinking and making coffee, and recently got into rock climbing.</description>
     </item>
     
     <item>
@@ -32,7 +31,9 @@ It makes use of a variety of open source projects including:
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://simengshao.github.io/research/</guid>
-      <description>Here is my research</description>
+      <description>2022 Prediction Sets for High-Dimensional Mixture of Experts Models. S. Shao, J. Bien and A. Javanmard. Manuscript in preparation.
+2021 Controlling the False Split Rate in Tree-Based Aggregation. S. Shao, J. Bien and A. Javanmard. Major revision. Journal of the American Statistical Association. arXiv:2108.05350
+2020 Multi-Product Dynamic Pricing in High-Dimensions with Heterogeneous Price Sensitivity. A. Javanmard, H. Nazerzadeh and S. Shao. IEEE International Symposium on Information Theory (ISIT), 2020. arXiv:1901.</description>
     </item>
     
   </channel>
