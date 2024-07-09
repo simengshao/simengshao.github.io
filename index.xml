@@ -4,38 +4,30 @@
     <title>Simeng (Simone) Shao on Vanilla</title>
     <link>https://simengshao.github.io/</link>
     <description>Recent content in Simeng (Simone) Shao on Vanilla</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://simengshao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://simengshao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
       <link>https://simengshao.github.io/contact/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://simengshao.github.io/contact/</guid>
-      <description> Email: simengsh at marshall.usc.edu  LinkedIn  Google Scholar </description>
+      <description> Email: simengsh at marshall.usc.edu LinkedIn Google Scholar </description>
     </item>
-    
     <item>
       <title>Miscellaenous</title>
       <link>https://simengshao.github.io/miscellaneous/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://simengshao.github.io/miscellaneous/</guid>
-      <description>I love taking film photos, drinking and making coffee, and bouldering. I also recently started making potteries!
-Please enjoy some of my film photos :)
-   Big Sur, California    Kerry Park, Seattle    Seattle, Washington    Fremont, Seattle    Los Angeles, California    Vieques, Puerto Rico    Pasadena, California    I made these mini snowmen ;)    Friend&#39;s wedding </description>
+      <description>I love taking film photos, drinking and making coffee, and bouldering. I also recently started making potteries!&#xA;Please enjoy some of my film photos :)&#xA;Big Sur, California Kerry Park, Seattle Seattle, Washington Fremont, Seattle Los Angeles, California Vieques, Puerto Rico Pasadena, California I made these mini snowmen ;) Friend&#39;s wedding </description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>https://simengshao.github.io/research/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://simengshao.github.io/research/</guid>
-      <description>2022 Prediction Sets for High-Dimensional Mixture of Experts Models. A. Javanmard, S. Shao, and J. Bien. arXiv:2210.16710
-2021 Controlling the False Split Rate in Tree-Based Aggregation. S. Shao, J. Bien and A. Javanmard. Major revision. Journal of the American Statistical Association. arXiv:2108.05350
-2020 Multi-Product Dynamic Pricing in High-Dimensions with Heterogeneous Price Sensitivity. A. Javanmard, H. Nazerzadeh and S. Shao. IEEE International Symposium on Information Theory (ISIT), 2020. arXiv:1901.01030</description>
+      <description>Preprints Prediction Sets for High-Dimensional Mixture of Experts Models. A. Javanmard, S. Shao, and J. Bien. arXiv:2210.16710&#xA;Publications Controlling the False Split Rate in Tree-Based Aggregation. S. Shao, J. Bien and A. Javanmard. Accepted to Journal of the American Statistical Association arXiv:2108.05350&#xA;Multi-Product Dynamic Pricing in High-Dimensions with Heterogeneous Price Sensitivity. A. Javanmard, H. Nazerzadeh and S. Shao. IEEE International Symposium on Information Theory (ISIT), 2020. arXiv:1901.01030</description>
     </item>
-    
   </channel>
 </rss>
